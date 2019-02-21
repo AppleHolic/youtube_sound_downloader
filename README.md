@@ -12,5 +12,5 @@ $$ pip install .
 #### How to run?
 
 ```bash
-$$ download-ys [url] [output_file_path]
+$$ download-ys [url] [output_file_path] [[--format [CHECK ffmpeg, DEFAULT: 32bit le pcm wav format]]]
 ```
